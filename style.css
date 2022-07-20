@@ -1,9 +1,8 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: black;
 }
 
-h1 {
-    background-color: antiquewhite;
+p {
+    color: red;
 }
